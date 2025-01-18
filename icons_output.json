@@ -1,0 +1,817 @@
+[
+    {
+        "location": "/content/new_folder",
+        "file_name": "ontology.png",
+        "symbol": "ONT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "icon.png",
+        "symbol": "ICX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "steem.png",
+        "symbol": "STEEM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "solana.png",
+        "symbol": "SOL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "theta.png",
+        "symbol": "THETA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "zklink.png",
+        "symbol": "ZKL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "keys.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "mantle.png",
+        "symbol": "MNT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "volentixgsys.png",
+        "symbol": "VTX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "metis.png",
+        "symbol": "METIS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ethereum.png",
+        "symbol": "ETH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "harmony.png",
+        "symbol": "ONE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "kusama.png",
+        "symbol": "KSM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iost.png",
+        "symbol": "IOST"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "piexgo.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ordi.png",
+        "symbol": "ORDI"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "pnp.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ecash.png",
+        "symbol": "XEC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ark.png",
+        "symbol": "ARK"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "zetachain.png",
+        "symbol": "ZETA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "decred.png",
+        "symbol": "DCR"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "nimiq.png",
+        "symbol": "NIM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "nano.png",
+        "symbol": "XNO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "bitcoin.png",
+        "symbol": "BTC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "smartbch.png",
+        "symbol": "BCH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "aryacoin.png",
+        "symbol": "AYA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "btcs.png",
+        "symbol": "BTCS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "secret.png",
+        "symbol": "SCRT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "blackpool.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ravencoin.png",
+        "symbol": "RVN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "aurora.png",
+        "symbol": "AURORA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "wemix.png",
+        "symbol": "WEMIX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "cronos.png",
+        "symbol": "CRO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "axelar.png",
+        "symbol": "AXL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "pactus.png",
+        "symbol": "PAC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "nebulas.png",
+        "symbol": "NAS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "litecoin.png",
+        "symbol": "LTC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "scroll.png",
+        "symbol": "SCRL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "gochain.png",
+        "symbol": "GO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "evmos.png",
+        "symbol": "EVMOS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ong.png",
+        "symbol": "ONG"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "hashquark.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "hashbuy.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "waves.png",
+        "symbol": "WAVES"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "fusion.png",
+        "symbol": "FSN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "everscale.png",
+        "symbol": "EVER"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "algorand.png",
+        "symbol": "ALGO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "eon.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "blockfolio.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "comdex.png",
+        "symbol": "CMDX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "kin.png",
+        "symbol": "KIN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "tfuel.png",
+        "symbol": "TFUEL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "stargaze.png",
+        "symbol": "STARS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "coreum.png",
+        "symbol": "CORE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ratels.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ellaism.png",
+        "symbol": "ELLA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iosg.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "sommelier.png",
+        "symbol": "SOMM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "osmosis.png",
+        "symbol": "OSMO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "wetez.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "zcash.png",
+        "symbol": "ZEC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "nativeinjective.png",
+        "symbol": "INJ"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "boba.png",
+        "symbol": "BOBAETH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "digibyte.png",
+        "symbol": "DGB"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "agoric.png",
+        "symbol": "BLD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "viacoin.png",
+        "symbol": "VIA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "terra.png",
+        "symbol": "LUNA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "cosmos.png",
+        "symbol": "ATOM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "hedera.png",
+        "symbol": "HBAR"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "neo.png",
+        "symbol": "NEO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "umee.png",
+        "symbol": "UMEE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "hard.png",
+        "symbol": "HARD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "filecoin.png",
+        "symbol": "FIL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "groestlcoin.png",
+        "symbol": "GRS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "preangel.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "teritori.png",
+        "symbol": "TORI"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "thorchain.png",
+        "symbol": "RUNE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "merlin.png",
+        "symbol": "MLN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ronin.png",
+        "symbol": "RON"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "pivx.png",
+        "symbol": "PIVX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "rats.png",
+        "symbol": "RATS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "everstake.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "stride.png",
+        "symbol": "STRD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "persistence.png",
+        "symbol": "XPRT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "rootstock.png",
+        "symbol": "ROOTSTOCK"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "xdai.png",
+        "symbol": "STAKE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "kujira.png",
+        "symbol": "KUJI"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ether-1.png",
+        "symbol": "ETHO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "usdx.png",
+        "symbol": "USDX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "fantom.png",
+        "symbol": "FTM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iotexhub.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "polkadot.png",
+        "symbol": "DOT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "bouncebit.png",
+        "symbol": "BB"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "piin.png",
+        "symbol": "piin"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "moonriver.png",
+        "symbol": "MOVR"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iotask.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "eos.png",
+        "symbol": "EOS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "verge.png",
+        "symbol": "XVG"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "arbitrum.png",
+        "symbol": "ARETH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "wannodes.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "qtum.png",
+        "symbol": "QTUM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "droute.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "wanchain.png",
+        "symbol": "WAN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "komodo.png",
+        "symbol": "KMD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "stellar.png",
+        "symbol": "XLM"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "rockx.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "kava.png",
+        "symbol": "KAVA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "quasar.png",
+        "symbol": "QSR"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "syscoin.png",
+        "symbol": "SYS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "tezos.png",
+        "symbol": "XTZ"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "nuls.png",
+        "symbol": "NULS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "base.png",
+        "symbol": "D-BASE TOKEN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ligo.png",
+        "symbol": "LIGO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "sei.png",
+        "symbol": "SEI"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "vechain.png",
+        "symbol": "VET"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "moonbeam.png",
+        "symbol": "GLMR"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "kavaevm.png",
+        "symbol": "KAVA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "noble.png",
+        "symbol": "USDC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "usdt.png",
+        "symbol": "USDT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "tron.png",
+        "symbol": "TRX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "zen.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "blast.png",
+        "symbol": "ETH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "meter.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "crescent.png",
+        "symbol": "CRE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "neutron.png",
+        "symbol": "NTRN"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "zilliqa.png",
+        "symbol": "ZIL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "elink.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "opbnb.png",
+        "symbol": "BNB"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "mrtrump.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "sats.png",
+        "symbol": "SATS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "polygon.png",
+        "symbol": "MATIC"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "cardano.png",
+        "symbol": "ADA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iotexteam.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "neblio.png",
+        "symbol": "NEBL"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "sui.png",
+        "symbol": "SUI"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "binance.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "celo.png",
+        "symbol": "CELO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "metanyx.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "iotex.png",
+        "symbol": "IOTX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "fetch.png",
+        "symbol": "FET"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "dash.png",
+        "symbol": "DASH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "aion.png",
+        "symbol": "AION"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "aeternity.png",
+        "symbol": "AE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "stratis.png",
+        "symbol": "STRAX"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "linea.png",
+        "symbol": "ETH"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "mars.png",
+        "symbol": "MARS"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "aptos.png",
+        "symbol": "APT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "optimism.png",
+        "symbol": "OP"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "acala.png",
+        "symbol": "ACA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "elrond.png",
+        "symbol": "ERD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "busd.png",
+        "symbol": "BUSD"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "blockboost.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "bluzelle.png",
+        "symbol": "BLZ"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "manta.png",
+        "symbol": "MANTA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "infstones.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "tomochain.png",
+        "symbol": "TOMOE"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "coingecko.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "link.png",
+        "symbol": ""
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "juno.png",
+        "symbol": "JUNO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "poa.png",
+        "symbol": "POA"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "firo.png",
+        "symbol": "FIRO"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "platon.png",
+        "symbol": "LAT"
+    },
+    {
+        "location": "/content/new_folder",
+        "file_name": "ethereumpow.png",
+        "symbol": "ETHW"
+    }
+]
